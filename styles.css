@@ -1,0 +1,22 @@
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: darkmagenta
+}
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: rgb(209, 253, 235);
+  border: 10px solid black; 
+}
+.column {
+  width: 300px;
+  float: center;
+  border: 2px solid green;
+  padding: 10px;
+}
+img {
+  float: left;
+}
+title {
+  color: darkolivegreen;
+}
